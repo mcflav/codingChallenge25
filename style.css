@@ -1,10 +1,8 @@
-body{
-   background-image: url('lawn.jpg'); 
-   background-repeat: no-repeat;
-   background-postion: center;
-   background-height: 500px;
-   opacity: 0.5;
+img {
+  opacity: 0.5;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
 }
+
 .backgroundPic{
    float: left;
    clear: left;
