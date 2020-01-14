@@ -1,7 +1,8 @@
-body{
+.backgroundPic{
    background-image: url('lawn.jpg'); 
    background-repeat: no-repeat;
    background-size: cover;
+   opacity: 0.5;
    
 }
 
