@@ -4,6 +4,10 @@ body{
    background-size: cover;
    opacity: 0.5;
 }
+.backgroundPic{
+   float: left;
+   clear: left;
+}
 
 .backgroundPic{
    opacity: 1;
