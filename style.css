@@ -23,8 +23,9 @@ a{
   font-weight: 50px;
 }
 
-.nav_section{
+.main_nav{
   display: flex;
+  list-style: none;
   margin: 0;
 }
 
