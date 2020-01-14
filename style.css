@@ -19,8 +19,7 @@ h2{
 
 .nav_section{
   display: flex;
-  list-style: none;
-  font-size: 0.7em;
+  font-size: 1.2em;
   margin: 0;
 }
 
