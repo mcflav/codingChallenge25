@@ -1,7 +1,8 @@
 body{
    background-image: url('lawn.jpg'); 
    background-repeat: no-repeat;
-   background-size: cover;
+   background-postion: center;
+   background-height: 500px;
    opacity: 0.5;
 }
 .backgroundPic{
@@ -10,7 +11,7 @@ body{
 }
 
 .backgroundPic{
-   opacity: 1;
+   opacity: 1 !Important;
 }
 
 h1{
