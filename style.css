@@ -16,3 +16,14 @@ h2{
    text-align: center;
    color: #0D083A;
 }
+
+.nav_section{
+
+}
+
+.container{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   height: 50vh;
+}
