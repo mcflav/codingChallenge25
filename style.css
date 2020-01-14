@@ -17,9 +17,12 @@ h2{
    color: #0D083A;
 }
 
+a{
+  font-size: 1.2em;
+}
+
 .nav_section{
   display: flex;
-  font-size: 1.2em;
   margin: 0;
 }
 
