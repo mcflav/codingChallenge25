@@ -37,8 +37,8 @@ a{
 }
 
 .main_nav{
-  margin-top: 150px;
-  padding-left: 180px;
+  display:flex;
+  align-items: center;
 }
 
 
