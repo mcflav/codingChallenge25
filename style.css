@@ -38,8 +38,8 @@ a{
 
 .main_nav{
   display: flex;
-  list-style: none;
-  margin: 0;
+  align-items: center;
+  justify-content: flex-end;
 }
 
 .container{
