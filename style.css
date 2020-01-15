@@ -36,9 +36,13 @@ a{
   font-weight: 50px;
 }
 
-.main_nav,li{
+.main_nav{
   margin-top: 150px;
   margin-left: 150px;
+}
+
+li{
+  margin-left 200px;
 }
 
 
