@@ -36,7 +36,7 @@ a{
   font-weight: 50px;
 }
 
-.main_nav{
+.main_nav,li{
   margin-top: 150px;
   margin-left: 150px;
 }
