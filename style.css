@@ -43,10 +43,9 @@ a{
 }
 
 .main_grid{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 50vh;
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns:repeat(auto-fill, minmax(350px,1fr));
 }
 
 .container{
