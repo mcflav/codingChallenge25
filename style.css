@@ -42,6 +42,13 @@ a{
   justify-content: flex-start;
 }
 
+.main_grid{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+}
+
 .container{
    display: flex;
    align-items: center;
