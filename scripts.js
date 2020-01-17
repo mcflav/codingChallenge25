@@ -9,6 +9,7 @@ function PriceServices(){
    }else if(strService === "Laying Mulch"){
      document.getElementById("price").innerHTML = "$35.00"
    }else if(strService === "Leaf Removal"){
-     document.getElementById("price").innerHTML = "25.00"
-   }
+     document.getElementById("price").innerHTML = "$25.00"
+   }else{
+     document.getElementById("price").innerHTML = "$0.00"
 }
