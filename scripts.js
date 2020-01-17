@@ -2,9 +2,8 @@ window.onload = PriceServices;
 
 function PriceServices(){
    var service = document.getElementById('services');
-   var price = document.getElementsByName("price")[0].tagName;
-
-   If(service.value === "mowing"){
+  
+   if(service.value === "mowing"){
      document.getElementsByName("price")[0].innerHTML = "40.00"
    }else if(service.value === "trimming"){
      document.getElementsByName("price")[0].innerHTML = "25.00"
