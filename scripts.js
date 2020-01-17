@@ -1,5 +1,3 @@
-window.onload = PriceServices;
-
 function PriceServices(){
    var service = document.getElementById("services");
    var strService = service.options[service.selectedIndex].text;
