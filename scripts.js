@@ -2,14 +2,15 @@ window.onload = PriceServices;
 
 function PriceServices(){
    var service = document.getElementById("services");
-  
-   if(service.value === "mowing"){
+   var strService = service.options[service.selectedIndex].text;
+    
+   if(strService === "mowing"){
      document.getElementById("price").innerHTML = "$40.00"
-   }else if(service.value === "trimming"){
+   }else if(strService === "trimming"){
      document.getElementById("price").innerHTML = "$25.00"
-   }else if(service.value === "mulch"){
+   }else if(strService === "mulch"){
      document.getElementById("price").innerHTML = "$35.00"
-   }else if(service.value === "leaf"){
+   }else if(strService === "leaf"){
      document.getElementById("price").innerHTML = "25.00"
    }
 }
