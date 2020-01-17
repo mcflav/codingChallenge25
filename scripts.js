@@ -1,7 +1,7 @@
 window.onload = PriceServices;
 
 function PriceServices(){
-   var service = document.getElementById('services');
+   var service = document.getElementById("services");
   
    if(service.value === "mowing"){
      document.getElementById("price").innerHTML = "$40.00"
