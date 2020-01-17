@@ -12,4 +12,5 @@ function PriceServices(){
      document.getElementById("price").innerHTML = "$25.00"
    }else{
      document.getElementById("price").innerHTML = "$0.00"
+   }
 }
