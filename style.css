@@ -58,7 +58,7 @@ a{
    text-align: center;
 }
 
-#services, #price{
+#services, #price, a{
     font-family: 'Anton', sans-serif;
     color: #1604AC;
 }
