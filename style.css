@@ -54,3 +54,9 @@ a{
    justify-content: flex-end;
 }
 
+.service_container{
+   display: flex;
+   align-items: center;
+   justify-content:flex-end;
+}
+
