@@ -55,8 +55,6 @@ a{
 }
 
 .service_container{
-   display: flex;
-   align-items: center;
-   justify-content:flex-start;
+   text-align: center;
 }
 
