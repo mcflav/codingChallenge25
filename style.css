@@ -58,3 +58,7 @@ a{
    text-align: center;
 }
 
+#services, #price{
+    font-family: 'Anton', sans-serif;
+}
+
