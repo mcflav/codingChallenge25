@@ -71,7 +71,7 @@ p{
 }
 
 .myCard{
-  height: 800px;
+  height: 400px;
   border: 1px solid black;
   animation: mymove 5s infinite;
 }
