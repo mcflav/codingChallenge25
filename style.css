@@ -70,10 +70,14 @@ p{
  text-align: center;
 }
 
-.center{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+.myCard{
+   width: 300px;
+  height: 200px;
+  border: 1px solid black;
+  animation: mymove 5s infinite;
+}
+
+@keyframes mymove {
+  50% {border: 15px solid lightblue;}
 }
 
