@@ -18,31 +18,6 @@ h2{
    color: #0D083A;
 }
 
-a{
-  font-size: 1.7em;
-  color: #1604AC;
-  font-weight: 50px;
-}
-
-.main_nav{
-  display:flex;
-  align-items: center;
-  justify-content: flex-start;
-  font-family: 'Anton', sans-serif;
-}
-
-.main_grid{
-  display: grid;
-  grid-gap: 20px;
-  grid-template-columns:repeat(auto-fill, minmax(350px,1fr));
-}
-
-.container{
-   display: flex;
-   align-items: center;
-   justify-content: flex-end;
-}
-
 .service_container{
    text-align: center;
 }
