@@ -55,7 +55,7 @@ a{
    justify-content: flex-end;
 }
 
-@media only screen (max-width:165px){
+@media only screen (max-width:1130px){
     font-size: 5px;
     padding: 0;
 }
