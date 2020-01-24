@@ -13,7 +13,7 @@ function PriceServices(){
    }else if(strService === "Lawn Treatment - BUGS"){
       document.getElementById("price").innerHTML = "$35.00"
    }else if(strService === "Lawn Treatment - FERTILIZE"){
-      document.getElementById("price").innerHTML) = "$45.00"
+      document.getElementById("price").innerHTML = "$45.00"
    }else{
      document.getElementById("price").innerHTML = "$0.00"
    }
