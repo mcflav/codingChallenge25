@@ -1,1 +1,74 @@
+body{
+  background-color: #EF9FAF;
+  margin: auto 0;
+/*781426
+C76476
+*/
+}
+
+h1{
+   font-size: 70px;
+   text-align: center;
+   color: #1604AC;
+}
+
+h2{
+   font-size: 40px;
+   text-align: center;
+   color: #0D083A;
+}
+
+a{
+  font-size: 1.7em;
+  color: #1604AC;
+  font-weight: 50px;
+}
+
+.main_nav{
+  display:flex;
+  align-items: center;
+  justify-content: flex-start;
+  font-family: 'Anton', sans-serif;
+}
+
+.main_grid{
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns:repeat(auto-fill, minmax(350px,1fr));
+}
+
+.container{
+   display: flex;
+   align-items: center;
+   justify-content: flex-end;
+}
+
+.service_container{
+   text-align: center;
+}
+
+#services, #price, a{
+    font-family: 'Anton', sans-serif;
+    color: #1604AC;
+}
+
+p{
+ margin: 30px; 
+ font-size: 25px;
+ text-align: center;
+}
+
+.myCard{
+  width: 700px;
+  height: 400px;
+  border: 20px double #1604AC;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.servicePic{
+ width: 400px;
+ height: 500px;
+}
 
