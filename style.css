@@ -9,15 +9,13 @@ C76476
 img {
   /*opacity: 0.5;
   filter: alpha(opacity=50); /* For IE8 and earlier */
-  /*height: 800px;
-  width: 800px;  */
+  height: 800px;
+  width: 800px; 
 }
 
 .backgroundPic{
    float: left;
    clear: left;
-   height: 800px;
-   width: 800px;
 }
 
 h1{
